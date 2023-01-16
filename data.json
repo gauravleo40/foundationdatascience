@@ -1,0 +1,618 @@
+{
+    "Action":{
+        "The Dark Knight":[
+            2008,
+            9,
+            "PG-13",
+            1676169
+        ],
+        "Inception":[
+            2010,
+            8.8,
+            "PG-13",
+            1468200
+        ],
+        "Star Wars: Episode V - The Empire Strikes Back":[
+            1980,
+            8.8,
+            "PG",
+            837759
+        ],
+        "The Matrix":[
+            1999,
+            8.7,
+            "R",
+            1217752
+        ],
+        "Seven Samurai":[
+            1954,
+            8.7,
+            "Unrated",
+            229012
+        ],
+        "Saving Private Ryan":[
+            1998,
+            8.6,
+            "R",
+            881236
+        ],
+        "Gladiator":[
+            2000,
+            8.5,
+            "R",
+            982637
+        ],
+        "Raiders of the Lost Ark":[
+            1981,
+            8.5,
+            "PG",
+            661017
+        ],
+        "Aliens":[
+            1986,
+            8.4,
+            "R",
+            488537
+        ],
+        "Batman Begins":[
+            2005,
+            8.3,
+            "PG-13",
+            980946
+        ],
+        "Indiana Jones and the Last Crusade":[
+            1989,
+            8.3,
+            "PG-13",
+            515306
+        ],
+        "Die Hard":[
+            1988,
+            8.2,
+            "R",
+            592582
+        ],
+        "Mad Max: Fury Road":[
+            2015,
+            8.1,
+            "R",
+            552503
+        ]
+    },
+    "Adventure":{
+        "Interstellar":[
+            2014,
+            8.6,
+            "PG-13",
+            928227
+        ],
+        "The Lion King":[
+            1994,
+            8.5,
+            "G",
+            644348
+        ],
+        "Back to the Future":[
+            1985,
+            8.5,
+            "PG",
+            732212
+        ],
+        "Lawrence of Arabia":[
+            1962,
+            8.4,
+            "PG",
+            192775
+        ],
+        "Toy Story 3":[
+            2010,
+            8.3,
+            "G",
+            544884
+        ],
+        "Inside Out":[
+            2015,
+            8.3,
+            "PG",
+            345198
+        ],
+        "Toy Story":[
+            1995,
+            8.3,
+            "G",
+            623757
+        ],
+        "2001: A Space Odyssey":[
+            1968,
+            8.3,
+            "G",
+            427357
+        ],
+        "Monty Python and the Holy Grail":[
+            1975,
+            8.3,
+            "PG",
+            382240
+        ],
+        "The Bridge on the River Kwai":[
+            1957,
+            8.2,
+            "PG",
+            149444
+        ],
+        "Jurassic Park":[
+            1993,
+            8.1,
+            "PG-13",
+            613473
+        ]
+    },
+    "Animation":{
+        "Ratatouille":[
+            2007,
+            8,
+            "G",
+            473887
+        ],
+        "Waltz with Bashir":[
+            2008,
+            8,
+            "R",
+            46107
+        ],
+        "Despicable Me":[
+            2010,
+            7.7,
+            "PG",
+            385943
+        ],
+        "Paddington":[
+            2014,
+            7.2,
+            "PG",
+            49207
+        ],
+        "Hotel Transylvania":[
+            2012,
+            7.1,
+            "PG",
+            164148
+        ],
+        "Cloudy with a Chance of Meatballs":[
+            2009,
+            7,
+            "PG",
+            152601
+        ],
+        "The Tigger Movie":[
+            2000,
+            6.3,
+            "G",
+            13319
+        ],
+        "Alvin and the Chipmunks":[
+            2007,
+            5.2,
+            "PG",
+            57276
+        ],
+        "Animals United":[
+            2010,
+            4.9,
+            "PG",
+            4599
+        ],
+        "Monkeybone":[
+            2001,
+            4.7,
+            "PG-13",
+            14280
+        ]
+    },
+    "Biography":{
+        "Schindler's List":[
+            1993,
+            8.9,
+            "R",
+            865020
+        ],
+        "Goodfellas":[
+            1990,
+            8.7,
+            "R",
+            728685
+        ],
+        "The Pianist":[
+            2002,
+            8.5,
+            "R",
+            497946
+        ],
+        "Braveheart":[
+            1995,
+            8.4,
+            "R",
+            736638
+        ],
+        "A Beautiful Mind":[
+            2001,
+            8.2,
+            "PG-13",
+            610568
+        ],
+        "The Elephant Man":[
+            1980,
+            8.2,
+            "PG",
+            161972
+        ],
+        "The Pursuit of Happyness":[
+            2006,
+            8,
+            "PG-13",
+            338383
+        ],
+        "Catch Me If You Can":[
+            2002,
+            8,
+            "PG-13",
+            525801
+        ],
+        "The Insider":[
+            1999,
+            7.9,
+            "R",
+            133526
+        ],
+        "A Man for All Seasons":[
+            1966,
+            7.9,
+            "Approved",
+            23713
+        ],
+        "The Last King of Scotland":[
+            2006,
+            7.7,
+            "R",
+            145580
+        ],
+        "Moneyball":[
+            2011,
+            7.6,
+            "PG-13",
+            283563
+        ],
+        "The Aviator":[
+            2004,
+            7.5,
+            "PG-13",
+            264318
+        ]
+    },
+    "Comedy":{
+        "Forrest Gump":[
+            1994,
+            8.8,
+            "PG-13",
+            1251222
+        ],
+        "Snatch":[
+            2000,
+            8.3,
+            "R",
+            600996
+        ],
+        "The Apartment":[
+            1960,
+            8.3,
+            "Approved",
+            109335
+        ],
+        "Lock, Stock and Two Smoking Barrels":[
+            1998,
+            8.2,
+            "R",
+            414976
+        ],
+        "The Truman Show":[
+            1998,
+            8.1,
+            "PG",
+            667983
+        ],
+        "The Hangover":[
+            2009,
+            7.8,
+            "R",
+            583341
+        ],
+        "Office Space":[
+            1999,
+            7.8,
+            "R",
+            200293
+        ],
+        "Dazed and Confused":[
+            1993,
+            7.7,
+            "R",
+            120036
+        ],
+        "Stranger Than Fiction":[
+            2006,
+            7.6,
+            "PG-13",
+            186977
+        ],
+        "Thank You for Smoking":[
+            2005,
+            7.6,
+            "R",
+            191998
+        ],
+        "My Cousin Vinny":[
+            1992,
+            7.5,
+            "R",
+            82743
+        ],
+        "Juno":[
+            2007,
+            7.5,
+            "PG-13",
+            414335
+        ],
+        "Death at a Funeral":[
+            2007,
+            7.4,
+            "R",
+            89547
+        ],
+        "The Terminal":[
+            2004,
+            7.3,
+            "PG-13",
+            303864
+        ],
+        "Dumb & Dumber":[
+            1994,
+            7.3,
+            "PG-13",
+            288451
+        ]
+    },
+    "Documentary":{
+        "Samsara":[
+            2011,
+            8.5,
+            "PG-13",
+            22457
+        ],
+        "U2 3D":[
+            2007,
+            8.4,
+            "G",
+            2673
+        ],
+        "The Last Waltz":[
+            1978,
+            8.2,
+            "PG",
+            12611
+        ],
+        "Food, Inc.":[
+            2008,
+            7.9,
+            "PG",
+            42389
+        ],
+        "Oceans":[
+            2009,
+            7.8,
+            "G",
+            7630
+        ],
+        "The Gatekeepers":[
+            2012,
+            7.6,
+            "PG-13",
+            4547
+        ],
+        "Fahrenheit 9/11":[
+            2004,
+            7.5,
+            "R",
+            113152
+        ],
+        "Wal-Mart: The High Cost of Low Price":[
+            2005,
+            6.8,
+            "Not Rated",
+            4120
+        ],
+        "One Direction: This Is Us":[
+            2013,
+            4.1,
+            "PG",
+            22161
+        ]
+    },
+    "Drama":{
+        "Fight Club":[
+            1999,
+            8.8,
+            "R",
+            1347461
+        ],
+        "Django Unchained":[
+            2012,
+            8.5,
+            "R",
+            955174
+        ],
+        "The Prestige":[
+            2006,
+            8.5,
+            "PG-13",
+            844052
+        ],
+        "Apocalypse Now":[
+            1979,
+            8.5,
+            "R",
+            450676
+        ],
+        "Children of Heaven":[
+            1997,
+            8.5,
+            "PG",
+            27882
+        ],
+        "The Shining":[
+            1980,
+            8.4,
+            "R",
+            610333
+        ],
+        "Unforgiven":[
+            1992,
+            8.3,
+            "R",
+            277505
+        ],
+        "Good Will Hunting":[
+            1997,
+            8.3,
+            "R",
+            604904
+        ],
+        "Judgment at Nuremberg":[
+            1961,
+            8.3,
+            "Not Rated",
+            44457
+        ],
+        "Million Dollar Baby":[
+            2004,
+            8.1,
+            "PG-13",
+            482064
+        ],
+        "Hotel Rwanda":[
+            2004,
+            8.1,
+            "PG-13",
+            264533
+        ],
+        "Donnie Darko":[
+            2001,
+            8.1,
+            "R",
+            580999
+        ],
+        "Amores Perros":[
+            2000,
+            8.1,
+            "R",
+            173551
+        ],
+        "Rocky":[
+            1976,
+            8.1,
+            "PG",
+            375240
+        ]
+    },
+    "Horror":{
+        "Psycho":[
+            1960,
+            8.5,
+            "R",
+            422432
+        ],
+        "Alien":[
+            1979,
+            8.5,
+            "R",
+            563827
+        ],
+        "The Exorcist":[
+            1973,
+            8,
+            "R",
+            284252
+        ],
+        "The Conjuring 2":[
+            2016,
+            7.8,
+            "R",
+            64989
+        ],
+        "Saw":[
+            2004,
+            7.7,
+            "R",
+            299127
+        ],
+        "The Texas Chain Saw Massacre":[
+            1974,
+            7.5,
+            "R",
+            96410
+        ],
+        "A Nightmare on Elm Street":[
+            1984,
+            7.5,
+            "X",
+            149293
+        ],
+        "The Witch":[
+            2015,
+            6.8,
+            "R",
+            66483
+        ],
+        "Final Destination":[
+            2000,
+            6.7,
+            "R",
+            181058
+        ],
+        "Drag Me to Hell":[
+            2009,
+            6.6,
+            "PG-13",
+            158354
+        ],
+        "The Howling":[
+            1981,
+            6.6,
+            "R",
+            22773
+        ],
+        "Paranormal Activity":[
+            2007,
+            6.3,
+            "R",
+            184824
+        ],
+        "House of Wax":[
+            2005,
+            5.3,
+            "R",
+            94456
+        ],
+        "Timber Falls":[
+            2007,
+            5.3,
+            "R",
+            5012
+        ],
+        "Apollo 18":[
+            2011,
+            5.2,
+            "PG-13",
+            47227
+        ]
+    }
+}
